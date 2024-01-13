@@ -43,7 +43,7 @@ if(isset($_POST['btnLogin'])){
   
 
     <div class="container mb-3 w-25"class="mix">
-     <h1 class="text-center">MIT Arts Commerce And Science College Pune</h1>
+     <h1 class="text-center">Admin</h1>
      <form action="login.php" method="post">
         <div class="form-group">
             <label for="username">Username</label>
